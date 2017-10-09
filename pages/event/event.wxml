@@ -1,8 +1,0 @@
-<view class="container vertical centered">
-  <view>
-    <text class="header">大降价！</text>
-  </view>
-</view>
-<view class = "image">
-  <image src = "/assets/images/landscape.png"></image>
-</view>
