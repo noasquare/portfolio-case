@@ -1,0 +1,6 @@
+<map
+  longitude="117.0311"
+  latitude="36.6666"
+  scale="13"
+  markers="{{ markers}}"
+/>
